@@ -1,0 +1,8 @@
+The 'barangay' is the smallest government unit in the Philippines. Barangays form together a district and districts in turn, make up a city. 
+
+A friend lives in Quezon City ("QC") in Metro Manila, Philippines. From where he lives in QC, it is 20km away from the central business district ("CBD") in Makati City where he works. It's not too far away but if you're living in Metro Manila, this means it's a minimum of 1.5 hours of one-way commute time you have to endure before reaching your destination. That's minimum of 3 hours a day spent on commuting alone. It is definitely stressful for a multitude of reasons: the energy one could have spent on doing more productive things, the time wasted, the health hazards etc. In addition, commuting in Metro Manila is not really a pleasant experience due to the inadequacy of public transporation be it trains, cabs or jeepneys.
+
+Thus, my friend is deciding on living closer to Makati City. He cannot, however, afford to live in the CBD so the next best option is to move to a city close to it, Mandaluyong City. To be clear, he loves his current residence in QC and he will stay there had he still have the stamina to endure the daily commuting grind. Unfortunately he cannot anymore but he prefers to find a barangay in Mandaluyong City that is similar to the barangay he lives in at QC.
+
+This project is to determine which of the barangays in Mandaluyong City is closest in terms of venues/establishments he enjoys in his current residence at QC. I will use clustering to be able to help a friend free himself from his daily commuting torture.
+
